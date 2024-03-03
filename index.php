@@ -29,7 +29,7 @@
             <div class="header-txt">
                 <h1>Clinica de Cristian Jurado</h1>
                 <p>
-                    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fugiat enim deleniti ipsa voluptas placeat distinctio iste eveniet sequi laboriosam blanditiis, beatae possimus ab rerum natus eum. Quia ducimus praesentium nulla.
+                En la Clínica de Cristian Jurado, nos esforzamos por ofrecer un enfoque integral para la salud y el bienestar. Nuestro equipo multidisciplinario trabaja en estrecha colaboración para brindar un cuidado personalizado y centrado en el paciente. Desde el momento en que entra por nuestras puertas, nuestro objetivo es garantizar que reciba la atención médica que se merece.
                 </p>
                 <a href="#" class="btn-1">informacion</a>
             </div>
@@ -49,11 +49,12 @@
         <div class="about-txt">
             <h2>Nosostros</h2>
             <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae numquam eos esse, labore minus, facilis voluptates voluptas, expedita doloribus optio sequi ea ut libero accusantium natus delectus laboriosam nisi magni?
-            </p>
+            En la Clínica de Cristian Jurado, nos dedicamos a proporcionar atención médica de la más alta calidad a nuestros pacientes. Con un equipo de profesionales altamente calificados y tecnología de vanguardia, nos esforzamos por ofrecer un ambiente cálido y acogedor donde nuestros pacientes se sientan seguros y bien atendidos.
+
+
             <br>
             <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae numquam eos esse, labore minus, facilis voluptates voluptas, expedita doloribus optio sequi ea ut libero accusantium natus delectus laboriosam nisi magni?
+            Nuestra clínica ofrece una amplia gama de servicios médicos, que incluyen atención primaria, especialidades médicas, servicios de laboratorio y diagnóstico, así como atención preventiva y de bienestar. Desde consultas médicas de rutina hasta tratamientos especializados, estamos comprometidos a satisfacer las necesidades de salud de toda nuestra comunidad.
             </p>
         </div>
 
